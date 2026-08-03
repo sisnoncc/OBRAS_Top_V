@@ -1,0 +1,12 @@
+Chat: SiSBoT
+Nombre del bot: estaremostontos_Bot
+
+token--API HTTP: 8977085926:AAEZYMA3mHGWYfk8kA4vhBg-tGtYlaSsN9A
+
+
+ID DE MI USUARIO:339789128
+
+
+
+Primero ejecutar script:telegram_uploader_001.py --> este sube los archivos (nos muestra lo que hay y lo que hay nuevo)
+Segundo bot explorador que nos dice que es lo que interactua: bot_explorador_001.py
